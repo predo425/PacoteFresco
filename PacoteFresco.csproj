@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <LangVersion>latest</LangVersion>
+    <AssemblyName>PacoteFresco</AssemblyName>
+    <RootNamespace>PacoteFresco</RootNamespace>
+    <ApplicationIcon>icone.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Version>1.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
+    <AssemblyTitle>Pacote Fresco</AssemblyTitle>
+    <Product>Pacote Fresco</Product>
+    <Company>Pedro Weiss Paludeto</Company>
+    <Authors>Pedro Weiss Paludeto</Authors>
+    <Copyright>Copyright © 2026 Pedro Weiss Paludeto</Copyright>
+    <Description>Mantém uma pasta de instaladores sempre atualizada, com verificação de hash e assinatura digital.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+
+</Project>
