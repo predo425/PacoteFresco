@@ -5,7 +5,7 @@
 <h1 align="center">Pacote Fresco</h1>
 
 <p align="center">
-  <b>Instaladores sempre fresquinhos.</b><br>
+  <b>Instaladores.</b><br>
   Baixa as versões mais novas dos seus programas, confere hash e assinatura digital<br>
   e deixa tudo numa pasta pronta para copiar no pen drive.
 </p>
